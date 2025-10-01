@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "EBENEZER OSUYAH"
-  avatar : "/assets/images/osuyah.jpg"
+  avatar : "/assets/images/Osuyah.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
