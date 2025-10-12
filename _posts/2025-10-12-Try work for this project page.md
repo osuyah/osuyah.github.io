@@ -1,8 +1,8 @@
 ---
 title: "Try page for projects!"
-date: 2025-10-12
+
 categories:
-  - project
+  - SQL
 tags:
   - visualization
   - update
