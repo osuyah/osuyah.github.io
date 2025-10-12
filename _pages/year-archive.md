@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Created on ...."
 permalink: /projects/
 layout: posts
 author_profile: true
